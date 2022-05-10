@@ -1,0 +1,23 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "First version of testing the API for Lowes Jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilly117/burger-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwilly117/burger-api/issues"
+  },
+  "homepage": "https://github.com/jwilly117/burger-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
