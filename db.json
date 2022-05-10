@@ -1,0 +1,467 @@
+{
+    "jobs":[
+        {
+            "jobId": "723051770",
+            "jobName": "DETAIL FRONT AND STORM DOOR",
+            "jobStatus": "Scheduled",
+            "jobType": "Job",
+            "soldDate": "3/17/2022",
+            "storeNumber": 2232,
+            "laborCategoryId": 13,
+            "laborCategory": "MWORK - INT/EXT/PATIO DOOR",
+            "overallEstimatedReceivedDate": "4/28/2022",
+            "leadAssessment": false,
+            "leadRemediation": true,
+            "leadAssessmentInfo": {
+                "isLeadSafePractisesRequired": true,
+                "leadResponseReason": "Tested Lead Positive"
+            },
+            "customer": {
+                "firstName": "ANNIE",
+                "lastName": "BROWN"
+            },
+            "contact": {
+                "installAddress": {
+                    "addressLine1": "4202 BUCKNELL DR",
+                    "addressLine2": "",
+                    "city": "DECATUR",
+                    "state": "GA",
+                    "postalCode": "30034",
+                    "country": "US"
+                },
+                "emailAddress": "",
+                "phoneNumber": "(404) 578-4220",
+                "pmoc": "Phone",
+                "alternatePhoneNumber": "(404) 234-4948"
+            },
+            "installer": {
+                "installerCompanyName": "INCREDIBLE INSTALLATIONS LLC",
+                "detailFeeInstaller": "INCREDIBLE INSTALLATIONS LLC"
+            },
+            "schedule": {
+                "scheduledDate": "5/17/2022",
+                "scheduledTime": "",
+                "slotId": "",
+                "startTimeframe": "",
+                "reservationId": ""
+            },
+            "comments": {
+                "customerComments": ""
+            },
+            "items": [
+                {
+                    "itemNumber": "1289436",
+                    "productDescription": "9-OZ OSI QUAD MAX CLEAR",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "11.78",
+                    "totalPrice": "11.78",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "145788",
+                    "productDescription": "10-OZ QUAD WHITE VOC",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "7.28",
+                    "totalPrice": "7.28",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "34660",
+                    "productDescription": "PFJCSE 356 2-1/4-INX11/16-INX7-FT",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "3",
+                    "unitPrice": "7.57",
+                    "totalPrice": "22.71",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "4649",
+                    "productDescription": "OAK QTRD 106 5/8-INX5/8-INX8-FT",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "10.98",
+                    "totalPrice": "10.98",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "999420",
+                    "productDescription": "13/16-INX5-13/16-INX12-FT PVCTRIM",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "25.97",
+                    "totalPrice": "25.97",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "209626",
+                    "productDescription": "8-FT PRIVACY LATTICE",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "9.46",
+                    "totalPrice": "9.46",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893896",
+                    "productDescription": "OPT SGL STORM/SCREEN/SEC W/EXT DR",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "150.00",
+                    "unitCost": "110.00",
+                    "totalPrice": "150.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893903",
+                    "productDescription": "OPT INST CUTBACK DRYWALL",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "75.00",
+                    "unitCost": "50.00",
+                    "totalPrice": "75.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "242563",
+                    "productDescription": "LEAD SAFE PRCT-INT/EXT/PATIO DOOR",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "150.00",
+                    "unitCost": "150.00",
+                    "totalPrice": "150.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893907",
+                    "productDescription": "INST ENTRY DOR UP TO 36\"X96\" (RO)",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "554.00",
+                    "unitCost": "410.00",
+                    "totalPrice": "554.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "913292",
+                    "productDescription": "Matte Black French Scroll Hardware",
+                    "productItemType": "SOS",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "64.00",
+                    "totalPrice": "64.00",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "1065973",
+                    "productDescription": "36 x 80.5 Aluminum Storm Door",
+                    "productItemType": "SOS",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "376.18",
+                    "totalPrice": "376.18",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                }
+            ],
+            "po": [
+                {
+                    "poNumber": "179433715",
+                    "type": "Labor",
+                    "status": "PO Issued",
+                    "amount": "720.00"
+                }
+            ]
+        },
+        {
+            "jobId": "727379355",
+            "jobName": "BROCK FRONT SEC DOOR INSTALL",
+            "jobStatus": "Scheduled",
+            "jobType": "Job",
+            "soldDate": "4/20/2022",
+            "storeNumber": 33,
+            "laborCategoryId": 2,
+            "laborCategory": "MWORK - STORM/SCREEN/SCTY DOORS",
+            "overallEstimatedReceivedDate": "5/9/2022",
+            "leadAssessment": false,
+            "leadRemediation": false,
+            "leadAssessmentInfo": {
+                "isLeadSafePractisesRequired": false,
+                "leadResponseReason": ""
+            },
+            "customer": {
+                "firstName": "ROBERT",
+                "lastName": "BROCK"
+            },
+            "contact": {
+                "installAddress": {
+                    "addressLine1": "105 RENAE LN",
+                    "addressLine2": "",
+                    "city": "HOGANSVILLE",
+                    "state": "GA",
+                    "postalCode": "30230",
+                    "country": "US"
+                },
+                "emailAddress": "",
+                "phoneNumber": "(706) 594-1179",
+                "pmoc": "Phone",
+                "alternatePhoneNumber": "(706) 594-1179"
+            },
+            "installer": {
+                "installerCompanyName": "INCREDIBLE INSTALLATIONS LLC",
+                "detailFeeInstaller": "INCREDIBLE INSTALLATIONS LLC"
+            },
+            "schedule": {
+                "scheduledDate": "5/18/2022",
+                "scheduledTime": "",
+                "slotId": "",
+                "startTimeframe": "",
+                "reservationId": ""
+            },
+            "comments": {
+                "customerComments": ""
+            },
+            "items": [
+                {
+                    "itemNumber": "98458",
+                    "productDescription": "RML 8-FT WHITE PVC BRICK MOULDING",
+                    "productItemType": "Stock",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "2",
+                    "unitPrice": "13.46",
+                    "totalPrice": "26.92",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "154658",
+                    "productDescription": "ADDL MILEAGE-STORM/SEC/SCRN DOOR",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "7",
+                    "unitPrice": "2.50",
+                    "unitCost": "2.50",
+                    "totalPrice": "17.50",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "288128",
+                    "productDescription": "INSTALL SECURITY DOOR",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "134.00",
+                    "unitCost": "120.00",
+                    "totalPrice": "134.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "913238",
+                    "productDescription": "Platinum SG Pebblestone 36-in RH",
+                    "productItemType": "SOS",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "598.59",
+                    "totalPrice": "598.59",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "913242",
+                    "productDescription": "QuickFit Handle kit Age Brz",
+                    "productItemType": "SOS",
+                    "deliverytype": "PL",
+                    "qtyOrdered": "1",
+                    "unitPrice": "50.50",
+                    "totalPrice": "50.50",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                }
+            ],
+            "po": [
+                {
+                    "poNumber": "195559622",
+                    "type": "Labor",
+                    "status": "PO Issued",
+                    "amount": "137.50"
+                }
+            ]
+        },
+        {
+            "jobId": "717793020",
+            "jobName": "PEGGY QUALLS",
+            "jobStatus": "Ready To Schedule",
+            "jobType": "Job",
+            "soldDate": "2/18/2022",
+            "storeNumber": 486,
+            "laborCategoryId": 21,
+            "laborCategory": "MWORK - WINDOWS",
+            "overallEstimatedReceivedDate": "6/25/2022",
+            "leadAssessment": false,
+            "leadRemediation": false,
+            "leadAssessmentInfo": {
+                "isLeadSafePractisesRequired": false,
+                "leadResponseReason": ""
+            },
+            "customer": {
+                "firstName": "PEGGY",
+                "lastName": "QUALLS"
+            },
+            "contact": {
+                "installAddress": {
+                    "addressLine1": "108 COX RD",
+                    "addressLine2": "",
+                    "city": "NEW TAZEWELL",
+                    "state": "TN",
+                    "postalCode": "37825",
+                    "country": "US"
+                },
+                "emailAddress": "PEGGY@LITERALSOLUTIONS.COM",
+                "phoneNumber": "(630) 788-3925",
+                "pmoc": "Phone",
+                "alternatePhoneNumber": "(630) 885-0999"
+            },
+            "installer": {
+                "installerCompanyName": "INCREDIBLE INSTALLATIONS LLC",
+                "detailFeeInstaller": "INCREDIBLE INSTALLATIONS LLC"
+            },
+            "schedule": {
+                "scheduledDate": "",
+                "scheduledTime": "",
+                "slotId": "",
+                "startTimeframe": "",
+                "reservationId": ""
+            },
+            "comments": {
+                "customerComments": ""
+            },
+            "items": [
+                {
+                    "itemNumber": "235637",
+                    "productDescription": "PVC TRIM",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "1001.59",
+                    "unitCost": "504.00",
+                    "totalPrice": "1001.59",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "888788",
+                    "productDescription": "PROJECT FEE",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "349.00",
+                    "unitCost": "0.01",
+                    "totalPrice": "349.00",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "105451",
+                    "productDescription": "BAD WOOD",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "80.81",
+                    "unitCost": "40.00",
+                    "totalPrice": "80.81",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "877445",
+                    "productDescription": "BASIC LABOR",
+                    "productItemType": "Labor",
+                    "deliverytype": "DD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "3846.57",
+                    "unitCost": "1858.50",
+                    "totalPrice": "3846.57",
+                    "qtyReceived": "0",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893867",
+                    "productDescription": "ReliaBilt Double Hung Double Hung 35.5 x 53",
+                    "productItemType": "SOS",
+                    "deliverytype": "LD",
+                    "qtyOrdered": "5",
+                    "unitPrice": "480.68",
+                    "totalPrice": "2403.40",
+                    "qtyReceived": "5",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893867",
+                    "productDescription": "ReliaBilt Picture Fixed 30.25 x 63",
+                    "productItemType": "SOS",
+                    "deliverytype": "LD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "404.65",
+                    "totalPrice": "404.65",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893867",
+                    "productDescription": "ReliaBilt Double Hung Double Hung 30.5 x 58",
+                    "productItemType": "SOS",
+                    "deliverytype": "LD",
+                    "qtyOrdered": "2",
+                    "unitPrice": "508.95",
+                    "totalPrice": "1017.90",
+                    "qtyReceived": "2",
+                    "qtyRefunded": "0"
+                },
+                {
+                    "itemNumber": "893867",
+                    "productDescription": "ReliaBilt Picture Fixed 31.5 x 63",
+                    "productItemType": "SOS",
+                    "deliverytype": "LD",
+                    "qtyOrdered": "1",
+                    "unitPrice": "453.08",
+                    "totalPrice": "453.08",
+                    "qtyReceived": "1",
+                    "qtyRefunded": "0"
+                }
+            ],
+            "po": [
+                {
+                    "poNumber": "193343586",
+                    "type": "Labor",
+                    "status": "PO Issued",
+                    "amount": "2402.51"
+                }
+            ]
+        }
+        
+    ]
+}
